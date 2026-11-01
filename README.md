@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Trophées GitHub](https://github-profile-trophies.vercel.org/?username=Rengodz)](https://github.com/ryo-ma/github-profile-trophies)
 <!--
 **Rengodz/Rengodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
